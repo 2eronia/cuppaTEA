@@ -19,7 +19,6 @@ let vender=''
 let num=0
 let shopname=''
 
-#已删掉内置token
 const token=[
 	
 	]
