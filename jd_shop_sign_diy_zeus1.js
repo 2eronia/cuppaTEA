@@ -49,7 +49,7 @@ if ($.isNode()) {
   
 	$.TokenLists = []
   
-        $.innerTokenList = await getStoreTokee('https://zy.kejiwanjia.com/jd_dpqiandao.php');
+        $.innerTokenList = await getStoreTokee('https://zy.kejiwanjia.com/jd_kjwjqd.php');
         //$.innerTokenList = token
 	
 	$.TokenLists.push(...$.TokenList,...$.innerTokenList);
