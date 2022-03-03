@@ -26,7 +26,9 @@
 ||gozendata.com^
 ||gz-data.com^
 
-# Dasheng
+# Dasheng + TVbox
+# https://github.com/jdlingyu/ad-wars/blob/master/hosts
+# https://github.com/vokins/yhosts/blob/master/data/tvbox.txt
 ||3.iscrv.com^
 ||397c0.admaster.com.cn^
 ||a.cntv.cn^
