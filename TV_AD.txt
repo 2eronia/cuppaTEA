@@ -1,3 +1,32 @@
+# huya.com
+||va.huya.com^
+||p2p.huya.com^
+||statwup.huya.com^
+
+# Sogou and QQ spy
+||gdt.qq.com^
+||get.shouji.sogou.com^
+||get.sogou.com^
+
+# Xiaomi
+||ad.mi.com^
+||ad.xiaomi.com^
+||ad1.xiaomi.com^
+||alog.umeng.com^
+||tat.pandora.xiaomi.com^
+||t7z.cupid.ptqy.gitv.tv^
+||mitv.tracking.miui.com^
+||o2o.api.xiaomi.com^
+||adv.sec.miui.com^
+||adeng.hpplay.cn^
+||ad.hpplay.cn^
+
+# GZDATA github.com/jdlingyu/ad-wars + TVbox
+||gzads.com^
+||gozendata.com^
+||gz-data.com^
+
+# Dasheng
 ||3.iscrv.com^
 ||397c0.admaster.com.cn^
 ||a.cntv.cn^
