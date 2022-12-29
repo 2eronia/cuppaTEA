@@ -1,3 +1,10 @@
+# Twitch
+||mew.twitch.tv
+||video-weaver.ord02.hls.ttvnw.net
+||hls.ttvnw.net
+||www.hls.ttvnw.net
+||amazon-adsystem.com
+
 # huya.com
 ||va.huya.com^
 ||p2p.huya.com^
